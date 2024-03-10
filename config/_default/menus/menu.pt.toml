@@ -1,0 +1,43 @@
+[[main]]
+  name = "Início"
+  url = ""
+  weight = -110
+
+# [[main]]
+#   name = "Arquivos"
+#   url = "post/rich-content/"
+#   weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "A3M"
+  identifier = "A3M"
+  weight = -109
+[[main]]
+  parent = "A3M"
+  name = "xpt"
+  url = "https://www.linkedin.com/"
+[[main]]
+  parent = "A3M"
+  name = "xpx"
+  url = "https://twitter.com/"
+
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Links"
+  identifier = "Links"
+  weight = -108
+[[main]]
+  parent = "Links"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/"
+[[main]]
+  parent = "Links"
+  name = "Twitter"
+  url = "https://twitter.com/"
+
+[[main]]
+  name = "Sobre"
+  url = "about/"
+  weight = -107
