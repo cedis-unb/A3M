@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Claridade</title>
-    <link>http://localhost:1313/A3M/post/</link>
+    <link>https://cedis.unb.br/A3M/post/</link>
     <description>Recent content in Posts on Claridade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>Copyright © 2024, A3M; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/A3M/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cedis.unb.br/A3M/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles</title>
-      <link>http://localhost:1313/A3M/post/bundle/</link>
+      <link>https://cedis.unb.br/A3M/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/bundle/</guid>
+      <guid>https://cedis.unb.br/A3M/post/bundle/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Using OpenStreetMap</title>
-      <link>http://localhost:1313/A3M/post/map/</link>
+      <link>https://cedis.unb.br/A3M/post/map/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/map/</guid>
+      <guid>https://cedis.unb.br/A3M/post/map/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Using Notices</title>
-      <link>http://localhost:1313/A3M/post/notices/</link>
+      <link>https://cedis.unb.br/A3M/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/notices/</guid>
+      <guid>https://cedis.unb.br/A3M/post/notices/</guid>
       <description>
         
           
@@ -60,15 +60,15 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>http://localhost:1313/A3M/post/markdown-syntax/</link>
+      <link>https://cedis.unb.br/A3M/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/markdown-syntax/</guid>
+      <guid>https://cedis.unb.br/A3M/post/markdown-syntax/</guid>
       <description>
         
           
             &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Artigo original: http://localhost:1313/A3M/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;Artigo original: https://cedis.unb.br/A3M/post/markdown-syntax/&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
           
           
@@ -78,10 +78,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/A3M/post/rich-content/</link>
+      <link>https://cedis.unb.br/A3M/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/rich-content/</guid>
+      <guid>https://cedis.unb.br/A3M/post/rich-content/</guid>
       <description>
         
           
@@ -94,10 +94,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/A3M/post/placeholder-text/</link>
+      <link>https://cedis.unb.br/A3M/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/placeholder-text/</guid>
+      <guid>https://cedis.unb.br/A3M/post/placeholder-text/</guid>
       <description>
         
           
@@ -110,10 +110,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/A3M/post/math-typesetting/</link>
+      <link>https://cedis.unb.br/A3M/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/math-typesetting/</guid>
+      <guid>https://cedis.unb.br/A3M/post/math-typesetting/</guid>
       <description>
         
           
@@ -126,10 +126,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/A3M/post/emoji-support/</link>
+      <link>https://cedis.unb.br/A3M/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/A3M/post/emoji-support/</guid>
+      <guid>https://cedis.unb.br/A3M/post/emoji-support/</guid>
       <description>
         
           

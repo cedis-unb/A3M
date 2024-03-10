@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/A3M/en/categories/</loc>
+    <loc>https://cedis.unb.br/A3M/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/A3M/categories/"
+                href="https://cedis.unb.br/A3M/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/A3M/en/categories/"
+                href="https://cedis.unb.br/A3M/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/A3M/en/</loc>
+    <loc>https://cedis.unb.br/A3M/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/A3M/"
+                href="https://cedis.unb.br/A3M/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/A3M/en/"
+                href="https://cedis.unb.br/A3M/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/A3M/en/series/</loc>
+    <loc>https://cedis.unb.br/A3M/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/A3M/series/"
+                href="https://cedis.unb.br/A3M/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/A3M/en/series/"
+                href="https://cedis.unb.br/A3M/en/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/A3M/en/tags/</loc>
+    <loc>https://cedis.unb.br/A3M/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/A3M/tags/"
+                href="https://cedis.unb.br/A3M/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/A3M/en/tags/"
+                href="https://cedis.unb.br/A3M/en/tags/"
                 />
   </url>
 </urlset>
