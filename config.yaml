@@ -3,7 +3,7 @@ languageCode: pt-br
 theme: hugo-theme-stack
 paginate: 3
 title: Programa A3M / UnB
-copyright: A3M / UnB
+copyright: A3M / UnB 
 publishDir: "docs"
 
 # Theme i18n support
