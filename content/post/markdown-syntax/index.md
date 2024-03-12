@@ -1,17 +1,14 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
+author = "A3M"
+title = "Projeto Super-R"
+date = "2020-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "2022",
+    "gamification"
 ]
 categories = [
-    "themes",
-    "syntax",
+    "project"
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

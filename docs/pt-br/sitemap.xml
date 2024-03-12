@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cedis.unb.br/A3M/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,11 @@
                 href="https://cedis.unb.br/A3M/"
                 />
   </url><url>
-    <loc>https://cedis.unb.br/A3M/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/tags/2022/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,26 +31,20 @@
                 href="https://cedis.unb.br/A3M/categories/"
                 />
   </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/tags/gamification/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/categories/project/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/projeto-super-r/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,11 +56,11 @@
                 href="https://cedis.unb.br/A3M/tags/"
                 />
   </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/page/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
@@ -79,6 +70,9 @@
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/markdown/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
@@ -104,8 +98,8 @@
     <loc>https://cedis.unb.br/A3M/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/a3m/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/links/</loc>
   </url><url>

@@ -1,0 +1,44 @@
+<style>
+    /* Overwrite CSS variable */
+    :root {
+        --article-font-family: "Merriweather", var(--base-font-family);
+        
+    }
+    .custom-footer {
+        background-color: #f8f9fa; /* Um fundo claro, mas sinta-se livre para mudar */
+        padding: 20px 0;
+        font-family: "Merriweather", sans-serif;
+    }
+    
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px; /* Pode ajustar conforme a largura máxima desejada */
+        margin: 0 auto; /* Centraliza o conteúdo se for menor que a tela */
+    }
+    
+    .logo img {
+        max-height: 50px; /* Ajusta a altura máxima dos logos */
+        width: auto; /* Mantém a proporção das imagens */
+    }
+    
+    .footer-text {
+        text-align: center;
+        font-size: 20px;
+        flex-grow: 1; /* Garante que o texto ocupe o espaço disponível, empurrando os logos para os cantos */
+        padding: 0 20px; /* Adiciona um pouco de espaço em torno do texto */
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>

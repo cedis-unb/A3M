@@ -6,6 +6,6 @@
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>A3M / UnB</copyright><atom:link href="https://cedis.unb.br/A3M/en/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Programa A3M / UnB</copyright><atom:link href="https://cedis.unb.br/A3M/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

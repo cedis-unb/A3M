@@ -6,37 +6,21 @@
         <description>Recent content in Tags on Programa A3M</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <copyright>A3M / UnB</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cedis.unb.br/A3M/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>https://cedis.unb.br/A3M/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <copyright>Programa A3M / UnB</copyright>
+        <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cedis.unb.br/A3M/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2022</title>
+        <link>https://cedis.unb.br/A3M/tags/2022/</link>
+        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://cedis.unb.br/A3M/tags/css/</guid>
+        <guid>https://cedis.unb.br/A3M/tags/2022/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>https://cedis.unb.br/A3M/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Gamification</title>
+        <link>https://cedis.unb.br/A3M/tags/gamification/</link>
+        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://cedis.unb.br/A3M/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown</title>
-        <link>https://cedis.unb.br/A3M/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://cedis.unb.br/A3M/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://cedis.unb.br/A3M/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://cedis.unb.br/A3M/tags/themes/</guid>
+        <guid>https://cedis.unb.br/A3M/tags/gamification/</guid>
         <description></description>
         </item>
         <item>
@@ -53,6 +37,14 @@
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://cedis.unb.br/A3M/tags/shortcodes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://cedis.unb.br/A3M/tags/markdown/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://cedis.unb.br/A3M/tags/markdown/</guid>
         <description></description>
         </item>
         <item>

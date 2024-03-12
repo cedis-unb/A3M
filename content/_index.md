@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: A3M
+        name: Home
         weight: -100
         params:
             icon: home
