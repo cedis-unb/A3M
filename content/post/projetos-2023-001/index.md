@@ -4,15 +4,17 @@ title = "Divulgação da Informação Científica para Promover a Cidadania por 
 date = "2023-09-01"
 description = "Projeto de podcast visando traduzir e disseminar conhecimento científico para a sociedade, promovendo cidadania e acesso à informação."
 tags = [
-    "Divulgação Científica",
-    "Podcast",
-    "Cidadania",
-    "Acesso à Informação",
     "Aprendizagem Baseada em Projetos",
     "Aprendizagem por Descoberta",
     "Aprendizagem Colaborativa",
     "Ensino Híbrido",
     "Peer Instruction"
+]
+keywords = [
+    "Divulgação Científica",
+    "Podcast",
+    "Cidadania",
+    "Acesso à Informação"
 ]
 categories = [
     "projeto"

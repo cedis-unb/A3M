@@ -5,8 +5,10 @@ date = "2023-06-01"
 description = "Exploração da evolução humana através de RPG para promover aprendizado imersivo e interativo."
 tags = [
     "Gamificação",
-    "Evolução Humana",
     "Aprendizagem Baseada em Jogos"
+]
+keywords = [
+    "Evolução Humana"
 ]
 categories = [
     "projeto"

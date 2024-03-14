@@ -4,7 +4,7 @@ title = "Edital DEG/A3M n. 19/2023"
 date = "2023-05-15"
 description = "O edital tem por finalidade apoiar financeiramente projetos que desenvolvam metodologias educacionais inovadoras e que utilizem indicadores de aprendizagem."
 tags = [
-    "edital"
+
 ]
 categories = [
     "edital"
@@ -45,14 +45,14 @@ Veja aqui o [edital completo](https://deg.unb.br/images/editais/deg/2023/edital_
 ## Projetos selecionados
 1. [Divulgação da Informação Científica para Promover a Cidadania por Meio de um Podcast: ‘Eu quero saber – Traduzindo a ciência para você!’](/A3M/p/divulgação-da-informação-científica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ciência-para-você/)
 2. Consolidação de estratégias inovadoras de ensino-aprendizagem em morfologia e fisiologia humana.
-3. Projeto Descomplicando a Audiologia
-4. Educação em engenharia para o desenvolvimento sustentável e combate à mudança climática
+3. [Projeto Descomplicando a Audiologia](/A3M/p/descomplicando-a-audiologia-inovação-e-tecnologia-na-educação/)
+4. [Educação em engenharia para o desenvolvimento sustentável e combate à mudança climática](/A3M/p/educação-em-engenharia-para-o-desenvolvimento-sustentável-e-combate-à-mudança-climática/)
 5. [Homo Ludens](/A3M/p/homo-ludens-gamificação-no-ensino-de-evolução-humana/)
 6. Implementação de Estratégias de Gamificação e PBL na Disciplina de Requisitos de Software, FGA, UnB
 7. Lesson Study na Formação Inicial e Continuada do(a) Professor(a) de Matemática: reflexão e colaboração em prol do desenvolvimento profissional docente.
 8. Gamificação no Ensino da Catalogação
 9. Projeto Coach Cast – UnB.
 10. Marketing Societal e Consumo Consciente 
-11. Ressignificação do ensino de Epidemiologia
+11. [Ressignificação do ensino de Epidemiologia](/A3M/p/ressignificação-do-ensino-de-epidemiologia-estratégias-pedagógicas-inovadoras/)
 12. O uso do Teams e do TRELLO em aulas presenciais na pós-covid-19
 13. Filosofia Jovem Podcast e Broadcast
