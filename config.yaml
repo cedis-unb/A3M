@@ -1,7 +1,7 @@
 baseurl: https://cedis.unb.br/A3M
 languageCode: pt-br
 theme: hugo-theme-stack
-paginate: 3
+paginate: 5
 title: Programa A3M / UnB 2
 copyright: Programa A3M / UnB 
 publishDir: "docs"
@@ -165,7 +165,7 @@ params:
                   limit: 10
             - type: tag-cloud
               params:
-                  limit: 10
+                  limit: 15
         page:
             - type: toc
 
