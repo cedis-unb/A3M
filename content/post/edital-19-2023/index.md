@@ -44,15 +44,15 @@ Veja aqui o [edital completo](https://deg.unb.br/images/editais/deg/2023/edital_
 
 ## Projetos selecionados
 1. [Divulgação da Informação Científica para Promover a Cidadania por Meio de um Podcast: ‘Eu quero saber – Traduzindo a ciência para você!’](/A3M/p/divulgação-da-informação-científica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ciência-para-você/)
-2. Consolidação de estratégias inovadoras de ensino-aprendizagem em morfologia e fisiologia humana.
+2. [Consolidação de estratégias inovadoras de ensino-aprendizagem em morfologia e fisiologia humana.](/A3M/p/consolidação-de-estratégias-inovadoras-de-ensino-aprendizagem-em-morfologia-e-fisiologia-humana/)
 3. [Projeto Descomplicando a Audiologia](/A3M/p/descomplicando-a-audiologia-inovação-e-tecnologia-na-educação/)
 4. [Educação em engenharia para o desenvolvimento sustentável e combate à mudança climática](/A3M/p/educação-em-engenharia-para-o-desenvolvimento-sustentável-e-combate-à-mudança-climática/)
-5. [Homo Ludens](/A3M/p/homo-ludens-gamificação-no-ensino-de-evolução-humana/)
-6. Implementação de Estratégias de Gamificação e PBL na Disciplina de Requisitos de Software, FGA, UnB
-7. Lesson Study na Formação Inicial e Continuada do(a) Professor(a) de Matemática: reflexão e colaboração em prol do desenvolvimento profissional docente.
-8. Gamificação no Ensino da Catalogação
-9. Projeto Coach Cast – UnB.
-10. Marketing Societal e Consumo Consciente 
+5. [Homo Ludens: Gamificação no Ensino de Evolução Humana](/A3M/p/homo-ludens-gamificação-no-ensino-de-evolução-humana/)
+6. [Implementação de Estratégias de Gamificação e PBL na Disciplina de Requisitos de Software, FGA, UnB](/A3M/p/implementação-de-estratégias-de-gamificação-e-pbl-na-disciplina-de-requisitos-de-software-fga-unb/)
+7. [Lesson Study na Formação Inicial e Continuada do(a) Professor(a) de Matemática: reflexão e colaboração em prol do desenvolvimento profissional docente.](/A3M/p/lesson-study-na-formação-inicial-e-continuada-doa-professora-de-matemática-reflexão-e-colaboração-em-prol-do-desenvolvimento-profissional-docente/)
+8. [Gamificação no Ensino da Catalogação](/A3M/p/gamificação-no-ensino-da-catalogação/)
+9. [Projeto Coach Cast – UnB](/A3M/p/coach-cast-unb-ampliando-horizontes-profissionais-através-de-podcasts/)
+10. [Marketing Societal e Consumo Consciente](/A3M/p/marketing-societal-e-consumo-consciente/)
 11. [Ressignificação do ensino de Epidemiologia](/A3M/p/ressignificação-do-ensino-de-epidemiologia-estratégias-pedagógicas-inovadoras/)
-12. O uso do Teams e do TRELLO em aulas presenciais na pós-covid-19
-13. Filosofia Jovem Podcast e Broadcast
+12. [O uso do Teams e do TRELLO em aulas presenciais na pós-covid-19](/A3M/p/o-uso-do-teams-e-do-trello-em-aulas-presenciais-na-pós-covid-19/)
+13. [Filosofia Jovem Podcast e Broadcast](/A3M/p/filosofia-jovem-podcast-e-broadcast-inovação-digital-no-ensino-de-filosofia/)

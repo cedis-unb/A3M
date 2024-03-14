@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cedis.unb.br/A3M/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,17 +15,11 @@
                 href="https://cedis.unb.br/A3M/"
                 />
   </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-baseada-em-projetos/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-colaborativa/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-por-descoberta/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <loc>https://cedis.unb.br/A3M/articles/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/categories/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,6 +30,40 @@
                 hreflang="pt-br"
                 href="https://cedis.unb.br/A3M/categories/"
                 />
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/engajamento/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/gamifica%C3%A7%C3%A3o/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/gamification/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/categories/metodologias-ativas/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cedis.unb.br/A3M/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://cedis.unb.br/A3M/tags/"
+                />
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-baseada-em-projetos/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-colaborativa/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/aprendizagem-por-descoberta/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/divulga%C3%A7%C3%A3o-da-informa%C3%A7%C3%A3o-cient%C3%ADfica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ci%C3%AAncia-para-voc%C3%AA/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
@@ -55,23 +83,34 @@
     <loc>https://cedis.unb.br/A3M/categories/projeto/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cedis.unb.br/A3M/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://cedis.unb.br/A3M/tags/"
-                />
+    <loc>https://cedis.unb.br/A3M/p/consolida%C3%A7%C3%A3o-de-estrat%C3%A9gias-inovadoras-de-ensino-aprendizagem-em-morfologia-e-fisiologia-humana/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/descomplicando-a-audiologia-inova%C3%A7%C3%A3o-e-tecnologia-na-educa%C3%A7%C3%A3o/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/tags/gamifica%C3%A7%C3%A3o/</loc>
+    <loc>https://cedis.unb.br/A3M/tags/desenvolvimento-profissional/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/filosofia-jovem-podcast-e-broadcast-inova%C3%A7%C3%A3o-digital-no-ensino-de-filosofia/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/gamifica%C3%A7%C3%A3o-no-ensino-da-cataloga%C3%A7%C3%A3o/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/implementa%C3%A7%C3%A3o-de-estrat%C3%A9gias-de-gamifica%C3%A7%C3%A3o-e-pbl-na-disciplina-de-requisitos-de-software-fga-unb/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/lesson-study-na-forma%C3%A7%C3%A3o-inicial-e-continuada-doa-professora-de-matem%C3%A1tica-reflex%C3%A3o-e-colabora%C3%A7%C3%A3o-em-prol-do-desenvolvimento-profissional-docente/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/marketing-societal-e-consumo-consciente/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/o-uso-do-teams-e-do-trello-em-aulas-presenciais-na-p%C3%B3s-covid-19/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/tags/pr%C3%A1tica-reflexiva/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/ressignifica%C3%A7%C3%A3o-do-ensino-de-epidemiologia-estrat%C3%A9gias-pedag%C3%B3gicas-inovadoras/</loc>
