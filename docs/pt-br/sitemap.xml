@@ -40,6 +40,9 @@
     <loc>https://cedis.unb.br/A3M/articles/gamification/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/publications/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cedis.unb.br/A3M/tags/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,7 +143,5 @@
     <loc>https://cedis.unb.br/A3M/links/</loc>
   </url><url>
     <loc>https://cedis.unb.br/A3M/search/</loc>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/categories/test/</loc>
   </url>
 </urlset>

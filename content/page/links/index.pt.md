@@ -1,7 +1,7 @@
 ---
 title: Links
 links:
-  - title: CEDIS
+  - title: 'parceiro: laboratório CEDIS'
     description: Centro de Estudos, Desenvolvimento e Inovação de Software da UnB
     website: https:/cedis.unb.br
     image: '/A3M/page/links/logo_cedis.png'

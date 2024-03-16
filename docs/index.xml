@@ -53,6 +53,15 @@
 &lt;p&gt;A gamificação pode transformar atividades rotineiras em experiências significativas e memoráveis, transcendo a barreira do entretenimento para se tornar um motor de motivação e engajamento em diversos campos.&lt;/p&gt;</description>
         </item>
         <item>
+        <title>Publicações do A3M</title>
+        <link>https://cedis.unb.br/A3M/articles/publications/</link>
+        <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://cedis.unb.br/A3M/articles/publications/</guid>
+        <description>&lt;img src="https://cedis.unb.br/A3M/articles/publications/gamification.png" alt="Featured image of post Publicações do A3M" /&gt;&lt;p&gt;Conjunto de publicações:&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Divulgação da Informação Científica para Promover a Cidadania por meio de um Podcast: ‘Eu quero saber – Traduzindo a ciência para você!’</title>
         <link>https://cedis.unb.br/A3M/p/divulga%C3%A7%C3%A3o-da-informa%C3%A7%C3%A3o-cient%C3%ADfica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ci%C3%AAncia-para-voc%C3%AA/</link>
         <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -651,26 +660,33 @@ Brasília.&lt;/p&gt;
         <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
         
         <guid>https://cedis.unb.br/A3M/a3m/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+        <description>&lt;h2 id=&#34;história&#34;&gt;História&lt;/h2&gt;
+&lt;p&gt;O Programa Aprendizagem para o 3º Milênio (A3M), lançado na Universidade de Brasília – UnB em 2017, é uma iniciativa institucional com o objetivo de atuar junto à comunidade da Universidade de Brasília na identificação, valorização e promoção de ações educacionais inovadoras, visando disponibilizar um portfólio sustentável de metodologias, processos e aplicativos para uso nos cursos da universidade.&lt;/p&gt;
+&lt;p&gt;O A3M é coordenado atualmente pelo &lt;a class=&#34;link&#34; href=&#34;https://deg.unb.br&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Decanato de Ensino de Graduação (DEG)&lt;/a&gt; através de uma comissão gestora e desde a sua implantação, pelo &lt;a class=&#34;link&#34; href=&#34;https:/cead.unb.br&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Centro de Educação à Distância (CEAD)&lt;/a&gt;, foram realizadas diversas ações: editais de fomento à inovação educacional na sala de aula; encontros temáticos; Seminários do Programa; oficinas; minicursos e o Educathon. Tais ações propiciaram o desenvolvimento de um conjunto de projetos que estão sendo aplicados nas mais diversas áreas acadêmicas na UnB.&lt;/p&gt;
+&lt;p&gt;O CEAD desde 2017 e o DEG desde 2022 lançaram editais que tem por finalidade apoiar financeiramente projetos que desenvolvam metodologias educacionais inovadoras e que utilizem indicadores de aprendizagem, preferencialmente com o apoio de Tecnologias de Informação e Comunicação (TICs).&lt;/p&gt;
+&lt;h2 id=&#34;missão&#34;&gt;Missão&lt;/h2&gt;
+&lt;p&gt;A missão do Programa Aprendizagem para o 3º Milênio – A3M é atuar junto à comunidade da Universidade de Brasília na identificação, valorização e promoção de ações educacionais inovadoras, visando disponibilizar um portfólio sustentável de metodologias, processos e aplicativos para uso nos cursos da universidade.&lt;/p&gt;
+&lt;h2 id=&#34;planos-de-ação&#34;&gt;Planos de ação&lt;/h2&gt;
+&lt;h3 id=&#34;plano-de-ações-2022-2025&#34;&gt;Plano de ações 2022-2025&lt;/h3&gt;
+&lt;h3 id=&#34;plano-de-ações-2017-2021&#34;&gt;Plano de ações 2017-2021&lt;/h3&gt;
+&lt;h2 id=&#34;comissão-gestora&#34;&gt;Comissão gestora&lt;/h2&gt;
+&lt;p&gt;Nomeada em 2020, a atual comissão gestora do A3M está assim composta:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cedis.unb.br/pt/people/cristiane_ramos/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Profa. Cristiane Soares Ramos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://lattes.cnpq.br/3462848897175909&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Profa. Dianne Magalhães Viana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://lattes.cnpq.br/4111170501195963&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Prof. Eduardo Bessa Pereira da Silva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://lattes.cnpq.br/6981177079694893&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Profa. Márcia Renata Mortari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cedis.unb.br/pt/people/sergio_freitas/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Prof. Sergio Antônio Andrade de Freitas&lt;/a&gt; (presidente)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;publicações&#34;&gt;Publicações&lt;/h2&gt;
+&lt;p&gt;Veja as publicações do A3M &lt;a class=&#34;link&#34; href=&#34;https://cedis.unb.br/A3M/A3M/articles/publications/&#34; &gt;aqui&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>

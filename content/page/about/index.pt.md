@@ -3,8 +3,6 @@ title: A3M
 description: 'A3M - Programa Aprendizagem para o 3. Milênio'
 date: '2017-02-28'
 aliases:
-  - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
 lastmod: '2024-03-11'
@@ -14,21 +12,33 @@ menu:
         params:
             icon: a3m
 ---
+## História
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+O Programa Aprendizagem para o 3º Milênio (A3M), lançado na Universidade de Brasília – UnB em 2017, é uma iniciativa institucional com o objetivo de atuar junto à comunidade da Universidade de Brasília na identificação, valorização e promoção de ações educacionais inovadoras, visando disponibilizar um portfólio sustentável de metodologias, processos e aplicativos para uso nos cursos da universidade.
 
-Hugo makes use of a variety of open source projects including:
+O A3M é coordenado atualmente pelo [Decanato de Ensino de Graduação (DEG)](https://deg.unb.br) através de uma comissão gestora e desde a sua implantação, pelo [Centro de Educação à Distância (CEAD)](https:/cead.unb.br), foram realizadas diversas ações: editais de fomento à inovação educacional na sala de aula; encontros temáticos; Seminários do Programa; oficinas; minicursos e o Educathon. Tais ações propiciaram o desenvolvimento de um conjunto de projetos que estão sendo aplicados nas mais diversas áreas acadêmicas na UnB.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+O CEAD desde 2017 e o DEG desde 2022 lançaram editais que tem por finalidade apoiar financeiramente projetos que desenvolvam metodologias educacionais inovadoras e que utilizem indicadores de aprendizagem, preferencialmente com o apoio de Tecnologias de Informação e Comunicação (TICs). 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Missão
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+A missão do Programa Aprendizagem para o 3º Milênio – A3M é atuar junto à comunidade da Universidade de Brasília na identificação, valorização e promoção de ações educacionais inovadoras, visando disponibilizar um portfólio sustentável de metodologias, processos e aplicativos para uso nos cursos da universidade.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Planos de ação
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### Plano de ações 2022-2025
+
+### Plano de ações 2017-2021
+
+## Comissão gestora
+
+Nomeada em 2020, a atual comissão gestora do A3M está assim composta:
+- [Profa. Cristiane Soares Ramos](https://cedis.unb.br/pt/people/cristiane_ramos/)
+- [Profa. Dianne Magalhães Viana](http://lattes.cnpq.br/3462848897175909)
+- [Prof. Eduardo Bessa Pereira da Silva](http://lattes.cnpq.br/4111170501195963)
+- [Profa. Márcia Renata Mortari](http://lattes.cnpq.br/6981177079694893)
+- [Prof. Sergio Antônio Andrade de Freitas](https://cedis.unb.br/pt/people/sergio_freitas/) (presidente)
+
+## Publicações
+
+Veja as publicações do A3M [aqui](/A3M/articles/publications/)
