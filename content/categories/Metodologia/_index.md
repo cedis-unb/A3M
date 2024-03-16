@@ -4,6 +4,6 @@ description: "Metodologias de aprendizagem ativa"
 slug: "metodologia"
 image: "metodologia.png"
 style:
-    background: "#2a9d8f"
+    background: "#000080"
     color: "#fff"
 ---
