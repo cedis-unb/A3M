@@ -41,4 +41,4 @@ Nomeada em 2020, a atual comissão gestora do A3M está assim composta:
 
 ## Publicações
 
-Veja as publicações do A3M [aqui](/A3M/articles/publications/)
+[Conheça publicações do A3M aqui](/A3M/articles/publications/)

@@ -4,9 +4,7 @@ title = "Lesson Study na Formação Inicial e Continuada do(a) Professor(a) de M
 date = "2023-07-01"
 description = "Iniciativa que visa integrar formadores, futuros professores e professores de matemática em um processo de Lesson Study, promovendo o desenvolvimento profissional através da reflexão e colaboração."
 tags = [
-    "Aprendizagem Colaborativa",
-    "Desenvolvimento Profissional",
-    "Prática Reflexiva"
+    "Aprendizagem Colaborativa"
 ]
 keywords = [
     "Lesson Study",
@@ -14,7 +12,9 @@ keywords = [
     "Matemática",
     "Educação Matemática",
     "Desenvolvimento Profissional Docente",
-    "Colaboração Docente"
+    "Colaboração Docente",
+    "Desenvolvimento Profissional",
+    "Prática Reflexiva"
 ]
 categories = [
     "projeto"

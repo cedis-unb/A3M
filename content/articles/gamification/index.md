@@ -1,6 +1,6 @@
 +++
 author = "A3M"
-title = "Metodologia: Gamificação"
+title = "Gamificação"
 date = "2024-03-14"
 description = "Uma visão geral da Gamificação e sua aplicação na educação e outros campos."
 tags = [
