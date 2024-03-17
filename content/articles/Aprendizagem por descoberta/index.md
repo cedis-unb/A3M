@@ -2,6 +2,7 @@
 author = "A3M"
 title = "Aprendizagem Por Descoberta"
 date = "2024-03-17"
+weight = 1000
 description = "Uma visão geral da Aprendizagem Por Descoberta e sua aplicação na educação."
 tags = [
     "Aprendizagem por Descoberta"

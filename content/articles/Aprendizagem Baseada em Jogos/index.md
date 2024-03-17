@@ -2,6 +2,7 @@
 author = "A3M"
 title = "Aprendizagem Baseada em Jogos"
 date = "2024-03-17"
+weight = 1000
 description = "Uma visão geral da Aprendizagem Baseada em Jogos e sua aplicação na educação."
 tags = [
     "Aprendizagem Baseada em Jogos"

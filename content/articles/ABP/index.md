@@ -2,6 +2,7 @@
 author = "A3M"
 title = "Aprendizagem Baseada em Projetos (ABP)"
 date = "2024-03-17"
+weight = 1000
 description = "Uma visão geral da Aprendizagem Baseada em Projetos (ABP) e sua aplicação na educação."
 tags = [
     "Aprendizagem Baseada em Projetos"

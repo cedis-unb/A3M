@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-baseada-em-jogos/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/abp/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-colaborativa/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-por-descoberta/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/ensino-h%C3%ADbrido/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/peer-instruction/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/gamification/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/p/mostra-de-projetos-educacionais-inovadores/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cedis.unb.br/A3M/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,28 +39,16 @@
                 href="https://cedis.unb.br/A3M/"
                 />
   </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-baseada-em-jogos/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-baseada-em-jogos/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-baseada-em-projetos/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/abp/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-colaborativa/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-colaborativa/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-por-descoberta/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/aprendizagem-por-descoberta/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/articles/</loc>
@@ -58,16 +70,10 @@
     <loc>https://cedis.unb.br/A3M/tags/ensino-h%C3%ADbrido/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/ensino-h%C3%ADbrido/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cedis.unb.br/A3M/categories/metodologia/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/peer-instruction/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/peer-instruction/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/</loc>
@@ -86,19 +92,19 @@
     <loc>https://cedis.unb.br/A3M/tags/gamifica%C3%A7%C3%A3o/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/gamification/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cedis.unb.br/A3M/articles/publications/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/categories/not%C3%ADcia/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/post/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/divulga%C3%A7%C3%A3o-da-informa%C3%A7%C3%A3o-cient%C3%ADfica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ci%C3%AAncia-para-voc%C3%AA/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/p/educa%C3%A7%C3%A3o-em-engenharia-para-o-desenvolvimento-sustent%C3%A1vel-e-combate-%C3%A0-mudan%C3%A7a-clim%C3%A1tica/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/post/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/categories/projeto/</loc>

@@ -2,6 +2,7 @@
 author = "A3M"
 title = "Gamificação"
 date = "2024-03-14"
+weight = 1000
 description = "Uma visão geral da Gamificação e sua aplicação na educação e outros campos."
 tags = [
     "gamificação"

@@ -2,6 +2,7 @@
 author = "A3M"
 title = "Ensino Híbrido"
 date = "2024-03-17"
+weight = 1000
 description = "Uma visão geral da Ensino Híbrido e sua aplicação na educação."
 tags = [
     "Ensino Híbrido"
