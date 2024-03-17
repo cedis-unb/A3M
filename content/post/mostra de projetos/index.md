@@ -50,4 +50,8 @@ O [Edital A3M 2023](/A3M/p/edital-deg/a3m-n.-19/2023/) da Universidade de Brasí
 
 ## Galeria de fotos
 
-![Image 1](IMG_7010.jpg)![Image 2](IMG_7012.jpg)
+![Profa. Raquel Dörr](IMG_7010.jpg)![Image 2](IMG_7012.jpg)
+
+![Image 2](IMG_6988.jpg)![Image 2](IMG_6991.jpg)
+
+![Image 2](IMG_6993.jpg)![Image 2](IMG_6994.jpg)
