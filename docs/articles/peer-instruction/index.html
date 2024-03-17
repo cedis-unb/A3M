@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Uma visão geral da Peer Instruction e sua aplicação na educação.'>
+<title>Peer Instruction</title>
+
+<link rel='canonical' href='https://cedis.unb.br/A3M/articles/peer-instruction/'>
+
+<link rel="stylesheet" href="/A3M/scss/style.min.d8118f156935b64eca93aca758476adca858d2c47354971654d9bd2933a0e45f.css"><meta property='og:title' content='Peer Instruction'>
+<meta property='og:description' content='Uma visão geral da Peer Instruction e sua aplicação na educação.'>
+<meta property='og:url' content='https://cedis.unb.br/A3M/articles/peer-instruction/'>
+<meta property='og:site_name' content='Programa A3M'>
+<meta property='og:type' content='article'><meta property='article:section' content='Articles' /><meta property='article:tag' content='peer instruction' /><meta property='article:published_time' content='2024-03-17T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-03-17T00:00:00&#43;00:00'/><meta property='og:image' content='https://cedis.unb.br/A3M/articles/peer-instruction/gamification.png' />
+<meta name="twitter:title" content="Peer Instruction">
+<meta name="twitter:description" content="Uma visão geral da Peer Instruction e sua aplicação na educação."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://cedis.unb.br/A3M/articles/peer-instruction/gamification.png' />
+    <link rel="shortcut icon" href="/A3M/favicon.ico" />
+<style>
+     
+    :root {
+        --article-font-family: "Merriweather", var(--base-font-family);
+        
+    }
+    .custom-footer {
+        background-color: #f8f9fa;  
+        padding: 20px 0;
+        font-family: "Merriweather", sans-serif;
+    }
+    
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;  
+        margin: 0 auto;  
+    }
+    
+    .logo img {
+        max-height: 50px;  
+        width: auto;  
+    }
+    
+    .footer-text {
+        text-align: center;
+        font-size: 20px;
+        flex-grow: 1;  
+        padding: 0 20px;  
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Alternar Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/A3M/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/A3M/img/avatar_hu1e32fd2e891049c34fc86c5f9b055048_14708_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/A3M">Programa A3M</a></h1>
+            <h2 class="site-description">Seja bem vindo(a) ao portal da Inovação Educacional na UnB</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://www.instagram.com/a3milenio/'
+                        target="_blank"
+                        title="Instagram"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" />
+  <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path d="M16.5 7.5l0 .01" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='mailto:cedis@unb.br'
+                        target="_blank"
+                        title="Mail"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" />
+  <path d="M3 7l9 6l9 -6" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://youtube.com'
+                        target="_blank"
+                        title="YouTube"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-youtube" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z" />
+  <path d="M10 9l5 3l-5 3z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/A3M/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/A3M/a3m/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 139 135" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="100%" height="100%" fill="none" />
+<path fill="#1868ae" d="M69,98 L81,104 L107,111 L114,105 L93,99 L76,91Z" />
+<path fill="#1b6034" d="M11,65 L11,76 L15,90 L23,103 L31,111 L52,100 L28,82Z" />
+<path fill="#1d4577" d="M16,41 L12,54 L34,76 L60,94 L68,87 L42,68Z" />
+<path fill="#0f8040" d="M113,27 L99,61 L83,84 L106,94 L120,96 L127,79 L128,59 L125,46Z" />
+<path fill="#1768ae" d="M51,10 L34,19 L21,34 L47,61 L74,80 L91,57 L106,20 L79,8Z" />
+</svg>
+                
+                <span>A3M</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/A3M/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Arquivos</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/A3M/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Pesquisa</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/A3M/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://cedis.unb.br/A3M/" selected>Português</option>
+                                
+                                    <option value="https://cedis.unb.br/A3M/en/" >English</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Modo Escuro</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Índice</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#introdução">Introdução</a>
+      <ol>
+        <li><a href="#como-funciona-a-peer-instruction">Como Funciona a Peer Instruction</a></li>
+      </ol>
+    </li>
+    <li><a href="#benefícios-e-desafios">Benefícios e Desafios</a>
+      <ol>
+        <li><a href="#benefícios-da-peer-instruction">Benefícios da Peer Instruction</a></li>
+        <li><a href="#desafios">Desafios</a></li>
+      </ol>
+    </li>
+    <li><a href="#exemplos-de-utilização">Exemplos de utilização</a>
+      <ol>
+        <li><a href="#física-lei-de-newton">Física: Lei de Newton</a></li>
+        <li><a href="#biologia-fotosíntese">Biologia: Fotosíntese</a></li>
+        <li><a href="#matemática-funções">Matemática: Funções</a></li>
+        <li><a href="#história-revoluções-industriais">História: Revoluções Industriais</a></li>
+        <li><a href="#informática-programação">Informática: Programação</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/A3M/articles/peer-instruction/">
+                <img src="/A3M/articles/peer-instruction/gamification_huea707a77816df774d2fb2c6a83bb42e9_307090_800x0_resize_box_3.png"
+                        srcset="/A3M/articles/peer-instruction/gamification_huea707a77816df774d2fb2c6a83bb42e9_307090_800x0_resize_box_3.png 800w, /A3M/articles/peer-instruction/gamification_huea707a77816df774d2fb2c6a83bb42e9_307090_1600x0_resize_box_3.png 1600w"
+                        width="800" 
+                        height="215" 
+                        loading="lazy"
+                        alt="Featured image of post Peer Instruction" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/A3M/categories/metodologia/" style="background-color: #000080; color: #fff;">
+                Metodologia
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/A3M/articles/peer-instruction/">Peer Instruction</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Uma visão geral da Peer Instruction e sua aplicação na educação.
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">17/03/2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 minutos de leitura
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="introdução">Introdução</h2>
+<p>A Peer Instruction, ou Instrução entre Pares, é uma técnica de ensino interativa que transforma o ambiente de aprendizagem, encorajando os alunos a se envolverem ativamente com o material de estudo e uns com os outros. Desenvolvida pelo físico Eric Mazur nos anos 90, a metodologia é projetada para melhorar a compreensão conceitual dos alunos por meio da discussão em grupo e do ensino recíproco.</p>
+<h3 id="como-funciona-a-peer-instruction">Como Funciona a Peer Instruction</h3>
+<ol>
+<li>
+<p><strong>Pergunta Conceitual</strong>: O professor inicia a aula apresentando uma pergunta conceitual desafiadora, geralmente relacionada a um mal-entendido comum ou um conceito difícil na matéria. Essas perguntas são projetadas para testar a compreensão dos alunos, não apenas a memorização.</p>
+</li>
+<li>
+<p><strong>Resposta Individual</strong>: Os alunos refletem sobre a pergunta e selecionam uma resposta individualmente. Isso pode ser feito através de clickers eletrônicos, aplicativos de smartphone, ou levantando a mão. O objetivo é que cada aluno cometa um palpite, baseando-se em sua compreensão atual do conceito.</p>
+</li>
+<li>
+<p><strong>Discussão em Pares</strong>: Após a votação inicial, os alunos são instruídos a discutir suas respostas com um ou dois colegas próximos. Durante essa discussão, eles explicam seus raciocínios um ao outro, defendem suas respostas e reconsideram suas próprias compreensões.</p>
+</li>
+<li>
+<p><strong>Re-votação</strong>: Após a discussão, os alunos votam novamente na mesma pergunta. Geralmente, mais alunos selecionam a resposta correta após essa troca de ideias, refletindo uma melhor compreensão do conceito.</p>
+</li>
+<li>
+<p><strong>Explicação e Feedback</strong>: Finalmente, o professor revela a resposta correta e fornece uma explicação detalhada. Esse momento também é uma oportunidade para abordar quaisquer concepções errôneas persistentes e responder a perguntas.</p>
+</li>
+</ol>
+<h2 id="benefícios-e-desafios">Benefícios e Desafios</h2>
+<h3 id="benefícios-da-peer-instruction">Benefícios da Peer Instruction</h3>
+<ul>
+<li><strong>Melhora a Compreensão</strong>: Ao forçar os alunos a articular suas ideias e ouvir as dos outros, a Peer Instruction ajuda a esclarecer conceitos difíceis e a corrigir mal-entendidos.</li>
+<li><strong>Promove o Engajamento Ativo</strong>: Transforma os alunos de receptores passivos de informação em participantes ativos em seu próprio processo de aprendizagem.</li>
+<li><strong>Desenvolve Habilidades de Comunicação</strong>: Os alunos praticam explicando conceitos complexos uns aos outros, o que pode melhorar suas habilidades de comunicação e argumentação.</li>
+<li><strong>Fornece Feedback Imediato</strong>: Tanto os alunos quanto o professor recebem feedback imediato sobre o nível de compreensão da turma, permitindo ajustes rápidos na estratégia de ensino.</li>
+</ul>
+<h3 id="desafios">Desafios</h3>
+<ul>
+<li><strong>Preparação</strong>: Requer que os professores preparem perguntas conceituais cuidadosamente planejadas para estimular discussões produtivas.</li>
+<li><strong>Adaptação dos Alunos</strong>: Alguns alunos podem inicialmente resistir a esse método por não estarem acostumados a serem ativamente envolvidos em sua aprendizagem.</li>
+</ul>
+<h2 id="exemplos-de-utilização">Exemplos de utilização</h2>
+<h3 id="física-lei-de-newton">Física: Lei de Newton</h3>
+<ul>
+<li><strong>Pergunta Conceitual</strong>: &ldquo;Um objeto está se movendo em linha reta a uma velocidade constante. Quais são as forças atuando sobre o objeto?&rdquo;</li>
+<li><strong>Processo</strong>: Após a resposta individual, os alunos discutem em pares ou pequenos grupos, explicando por que acreditam que nenhuma força extra é necessária para manter o objeto em movimento a uma velocidade constante, desafiando o mal-entendido comum de que uma força constante é necessária para manter o movimento.</li>
+</ul>
+<h3 id="biologia-fotosíntese">Biologia: Fotosíntese</h3>
+<ul>
+<li><strong>Pergunta Conceitual</strong>: &ldquo;Qual componente é essencial para que a fotosíntese ocorra nas plantas: luz solar, dióxido de carbono, água, ou todas as anteriores?&rdquo;</li>
+<li><strong>Processo</strong>: Após votarem individualmente, os alunos debatem suas escolhas, discutindo o papel de cada componente na fotosíntese. A re-votação ajuda a esclarecer a compreensão de que todos os componentes listados são necessários para o processo.</li>
+</ul>
+<h3 id="matemática-funções">Matemática: Funções</h3>
+<ul>
+<li><strong>Pergunta Conceitual</strong>: &ldquo;Se f(x) = x² e g(x) = x+2, qual é o resultado de (f∘g)(2)?&rdquo;</li>
+<li><strong>Processo</strong>: Os alunos inicialmente tentam resolver o problema sozinhos e, após a primeira votação, discutem suas abordagens e entendimentos sobre a composição de funções com seus colegas antes de votar novamente.</li>
+</ul>
+<h3 id="história-revoluções-industriais">História: Revoluções Industriais</h3>
+<ul>
+<li><strong>Pergunta Conceitual</strong>: &ldquo;Qual inovação foi mais fundamental para o início da Primeira Revolução Industrial: a máquina a vapor, o tear mecânico, ou a fundição de ferro com coque?&rdquo;</li>
+<li><strong>Processo</strong>: Após a resposta inicial, os alunos compartilham suas opiniões e justificativas, considerando o impacto de cada inovação no desenvolvimento industrial. A discussão ajuda a aprofundar o entendimento das complexas causas e efeitos da Revolução Industrial.</li>
+</ul>
+<h3 id="informática-programação">Informática: Programação</h3>
+<ul>
+<li><strong>Pergunta Conceitual</strong>: &ldquo;Em linguagem C, o que o seguinte comando realiza? printf(&rsquo;%d&rsquo;, (x &gt; y) ? x : y);&rdquo;</li>
+<li><strong>Processo</strong>: Os estudantes primeiro tentam determinar individualmente se entendem a operação do operador ternário. Depois, discutem suas interpretações, esclarecendo como o comando decide qual valor imprimir baseado na condição fornecida.</li>
+</ul>
+<p>Esses exemplos demonstram a flexibilidade da Peer Instruction em promover discussões produtivas e aprofundamento conceitual em uma variedade de disciplinas. Ao encorajar os estudantes a explicar e debater suas ideias uns com os outros, essa metodologia não apenas facilita a compreensão dos conceitos, mas também desenvolve habilidades críticas de comunicação e raciocínio.</p>
+<p>Em resumo, a Peer Instruction é uma abordagem poderosa para o ensino que não apenas melhora a compreensão dos alunos sobre os conceitos-chave, mas também promove habilidades de pensamento crítico, comunicação e colaboração.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/A3M/tags/peer-instruction/">Peer Instruction</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.querySelector(`.article-content`), {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Conteúdo relacionado</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/A3M/articles/aprendizagem-baseada-em-jogos/">
+        
+        
+            <div class="article-image">
+                <img src="/A3M/articles/aprendizagem-baseada-em-jogos/gamification.b17b69e2b28aab0f757911f526697799_huea707a77816df774d2fb2c6a83bb42e9_307090_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Aprendizagem Baseada em Jogos"
+                        
+                        data-hash="md5-sXtp4rKKqw91eRH1Jml3mQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Aprendizagem Baseada em Jogos</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/A3M/articles/abp/">
+        
+        
+            <div class="article-image">
+                <img src="/A3M/articles/abp/gamification.b17b69e2b28aab0f757911f526697799_huea707a77816df774d2fb2c6a83bb42e9_307090_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Aprendizagem Baseada em Projetos (ABP)"
+                        
+                        data-hash="md5-sXtp4rKKqw91eRH1Jml3mQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Aprendizagem Baseada em Projetos (ABP)</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/A3M/articles/aprendizagem-colaborativa/">
+        
+        
+            <div class="article-image">
+                <img src="/A3M/articles/aprendizagem-colaborativa/gamification.b17b69e2b28aab0f757911f526697799_huea707a77816df774d2fb2c6a83bb42e9_307090_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Aprendizagem Colaborativa"
+                        
+                        data-hash="md5-sXtp4rKKqw91eRH1Jml3mQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Aprendizagem Colaborativa</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/A3M/articles/aprendizagem-por-descoberta/">
+        
+        
+            <div class="article-image">
+                <img src="/A3M/articles/aprendizagem-por-descoberta/gamification.b17b69e2b28aab0f757911f526697799_huea707a77816df774d2fb2c6a83bb42e9_307090_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Aprendizagem Por Descoberta"
+                        
+                        data-hash="md5-sXtp4rKKqw91eRH1Jml3mQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Aprendizagem Por Descoberta</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/A3M/articles/ensino-h%C3%ADbrido/">
+        
+        
+            <div class="article-image">
+                <img src="/A3M/articles/ensino-h%C3%ADbrido/gamification.b17b69e2b28aab0f757911f526697799_huea707a77816df774d2fb2c6a83bb42e9_307090_250x150_fill_box_smart1_3.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Ensino Híbrido"
+                        
+                        data-hash="md5-sXtp4rKKqw91eRH1Jml3mQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Ensino Híbrido</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 Programa A3M / UnB
+    </section>
+    
+    <section class="powerby">
+         <br />
+        
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/A3M/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+<footer class="custom-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="logo logo-unb">
+                <img src="/A3M/images/logo-unb.jpg" alt="Logo da UnB">
+            </div>
+            <div class="footer-text">
+                Programa Aprendizagem para o 3º Milênio
+            </div>
+            <div class="logo logo-a3m">
+                <img src="/A3M/images/logo-a3m.png" alt="Logo do A3M">
+            </div>
+        </div>
+    </div>
+</footer>
+    </body>
+</html>

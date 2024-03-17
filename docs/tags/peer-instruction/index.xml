@@ -7,7 +7,76 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
         <copyright>Programa A3M / UnB</copyright>
-        <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cedis.unb.br/A3M/tags/peer-instruction/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cedis.unb.br/A3M/tags/peer-instruction/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Peer Instruction</title>
+        <link>https://cedis.unb.br/A3M/articles/peer-instruction/</link>
+        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://cedis.unb.br/A3M/articles/peer-instruction/</guid>
+        <description>&lt;img src="https://cedis.unb.br/A3M/articles/peer-instruction/gamification.png" alt="Featured image of post Peer Instruction" /&gt;&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;
+&lt;p&gt;A Peer Instruction, ou Instrução entre Pares, é uma técnica de ensino interativa que transforma o ambiente de aprendizagem, encorajando os alunos a se envolverem ativamente com o material de estudo e uns com os outros. Desenvolvida pelo físico Eric Mazur nos anos 90, a metodologia é projetada para melhorar a compreensão conceitual dos alunos por meio da discussão em grupo e do ensino recíproco.&lt;/p&gt;
+&lt;h3 id=&#34;como-funciona-a-peer-instruction&#34;&gt;Como Funciona a Peer Instruction&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: O professor inicia a aula apresentando uma pergunta conceitual desafiadora, geralmente relacionada a um mal-entendido comum ou um conceito difícil na matéria. Essas perguntas são projetadas para testar a compreensão dos alunos, não apenas a memorização.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Resposta Individual&lt;/strong&gt;: Os alunos refletem sobre a pergunta e selecionam uma resposta individualmente. Isso pode ser feito através de clickers eletrônicos, aplicativos de smartphone, ou levantando a mão. O objetivo é que cada aluno cometa um palpite, baseando-se em sua compreensão atual do conceito.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Discussão em Pares&lt;/strong&gt;: Após a votação inicial, os alunos são instruídos a discutir suas respostas com um ou dois colegas próximos. Durante essa discussão, eles explicam seus raciocínios um ao outro, defendem suas respostas e reconsideram suas próprias compreensões.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Re-votação&lt;/strong&gt;: Após a discussão, os alunos votam novamente na mesma pergunta. Geralmente, mais alunos selecionam a resposta correta após essa troca de ideias, refletindo uma melhor compreensão do conceito.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explicação e Feedback&lt;/strong&gt;: Finalmente, o professor revela a resposta correta e fornece uma explicação detalhada. Esse momento também é uma oportunidade para abordar quaisquer concepções errôneas persistentes e responder a perguntas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;benefícios-e-desafios&#34;&gt;Benefícios e Desafios&lt;/h2&gt;
+&lt;h3 id=&#34;benefícios-da-peer-instruction&#34;&gt;Benefícios da Peer Instruction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Melhora a Compreensão&lt;/strong&gt;: Ao forçar os alunos a articular suas ideias e ouvir as dos outros, a Peer Instruction ajuda a esclarecer conceitos difíceis e a corrigir mal-entendidos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promove o Engajamento Ativo&lt;/strong&gt;: Transforma os alunos de receptores passivos de informação em participantes ativos em seu próprio processo de aprendizagem.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desenvolve Habilidades de Comunicação&lt;/strong&gt;: Os alunos praticam explicando conceitos complexos uns aos outros, o que pode melhorar suas habilidades de comunicação e argumentação.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fornece Feedback Imediato&lt;/strong&gt;: Tanto os alunos quanto o professor recebem feedback imediato sobre o nível de compreensão da turma, permitindo ajustes rápidos na estratégia de ensino.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;desafios&#34;&gt;Desafios&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Preparação&lt;/strong&gt;: Requer que os professores preparem perguntas conceituais cuidadosamente planejadas para estimular discussões produtivas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adaptação dos Alunos&lt;/strong&gt;: Alguns alunos podem inicialmente resistir a esse método por não estarem acostumados a serem ativamente envolvidos em sua aprendizagem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exemplos-de-utilização&#34;&gt;Exemplos de utilização&lt;/h2&gt;
+&lt;h3 id=&#34;física-lei-de-newton&#34;&gt;Física: Lei de Newton&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: &amp;ldquo;Um objeto está se movendo em linha reta a uma velocidade constante. Quais são as forças atuando sobre o objeto?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processo&lt;/strong&gt;: Após a resposta individual, os alunos discutem em pares ou pequenos grupos, explicando por que acreditam que nenhuma força extra é necessária para manter o objeto em movimento a uma velocidade constante, desafiando o mal-entendido comum de que uma força constante é necessária para manter o movimento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;biologia-fotosíntese&#34;&gt;Biologia: Fotosíntese&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: &amp;ldquo;Qual componente é essencial para que a fotosíntese ocorra nas plantas: luz solar, dióxido de carbono, água, ou todas as anteriores?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processo&lt;/strong&gt;: Após votarem individualmente, os alunos debatem suas escolhas, discutindo o papel de cada componente na fotosíntese. A re-votação ajuda a esclarecer a compreensão de que todos os componentes listados são necessários para o processo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;matemática-funções&#34;&gt;Matemática: Funções&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: &amp;ldquo;Se f(x) = x² e g(x) = x+2, qual é o resultado de (f∘g)(2)?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processo&lt;/strong&gt;: Os alunos inicialmente tentam resolver o problema sozinhos e, após a primeira votação, discutem suas abordagens e entendimentos sobre a composição de funções com seus colegas antes de votar novamente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;história-revoluções-industriais&#34;&gt;História: Revoluções Industriais&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: &amp;ldquo;Qual inovação foi mais fundamental para o início da Primeira Revolução Industrial: a máquina a vapor, o tear mecânico, ou a fundição de ferro com coque?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processo&lt;/strong&gt;: Após a resposta inicial, os alunos compartilham suas opiniões e justificativas, considerando o impacto de cada inovação no desenvolvimento industrial. A discussão ajuda a aprofundar o entendimento das complexas causas e efeitos da Revolução Industrial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;informática-programação&#34;&gt;Informática: Programação&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pergunta Conceitual&lt;/strong&gt;: &amp;ldquo;Em linguagem C, o que o seguinte comando realiza? printf(&amp;rsquo;%d&amp;rsquo;, (x &amp;gt; y) ? x : y);&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processo&lt;/strong&gt;: Os estudantes primeiro tentam determinar individualmente se entendem a operação do operador ternário. Depois, discutem suas interpretações, esclarecendo como o comando decide qual valor imprimir baseado na condição fornecida.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Esses exemplos demonstram a flexibilidade da Peer Instruction em promover discussões produtivas e aprofundamento conceitual em uma variedade de disciplinas. Ao encorajar os estudantes a explicar e debater suas ideias uns com os outros, essa metodologia não apenas facilita a compreensão dos conceitos, mas também desenvolve habilidades críticas de comunicação e raciocínio.&lt;/p&gt;
+&lt;p&gt;Em resumo, a Peer Instruction é uma abordagem poderosa para o ensino que não apenas melhora a compreensão dos alunos sobre os conceitos-chave, mas também promove habilidades de pensamento crítico, comunicação e colaboração.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Divulgação da Informação Científica para Promover a Cidadania por meio de um Podcast: ‘Eu quero saber – Traduzindo a ciência para você!’</title>
         <link>https://cedis.unb.br/A3M/p/divulga%C3%A7%C3%A3o-da-informa%C3%A7%C3%A3o-cient%C3%ADfica-para-promover-a-cidadania-por-meio-de-um-podcast-eu-quero-saber-traduzindo-a-ci%C3%AAncia-para-voc%C3%AA/</link>
         <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
