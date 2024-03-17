@@ -47,3 +47,7 @@ O [Edital A3M 2023](/A3M/p/edital-deg/a3m-n.-19/2023/) da Universidade de Brasí
 - **11h25 - 12h30:** Mesa Redonda - Além da tecnologia: inovação na educação e responsabilidade social
 
 *Cada apresentação terá duração de 30 minutos. Ao final de cada turno de apresentações haverá uma mesa redonda.*
+
+## Galeria de fotos
+
+![Image 1](IMG_7010.jpg)![Image 2](IMG_7012.jpg)
