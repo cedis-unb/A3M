@@ -27,7 +27,7 @@
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,6 +38,40 @@
                 hreflang="pt-br"
                 href="https://cedis.unb.br/A3M/"
                 />
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/categories/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cedis.unb.br/A3M/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://cedis.unb.br/A3M/categories/"
+                />
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/categories/indicador/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/indicador-1---novos-conceitos/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/indicador-2---enriquecimento-da-rede-de-conex%C3%B5es/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/indicador-3---motiva%C3%A7%C3%A3o-do-estudante/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/indicador-4---avalia%C3%A7%C3%A3o-entre-pares/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cedis.unb.br/A3M/articles/indicador-5---notas-e-atividades-avaliativas/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-baseada-em-jogos/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
@@ -50,22 +84,6 @@
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/aprendizagem-por-descoberta/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/articles/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cedis.unb.br/A3M/categories/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cedis.unb.br/A3M/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://cedis.unb.br/A3M/categories/"
-                />
   </url><url>
     <loc>https://cedis.unb.br/A3M/tags/ensino-h%C3%ADbrido/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
