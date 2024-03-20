@@ -14,7 +14,50 @@
 <meta name="twitter:title" content="Pesquisa">
 <meta name="twitter:description" content=""><link rel="alternate" type="application/json" href="https://cedis.unb.br/A3M/search/index.json">
     <link rel="shortcut icon" href="/A3M/favicon.ico" />
-<link rel="preload" href="/A3M/search/index.json" as="fetch" crossorigin="anonymous">
+<style>
+     
+    :root {
+        --article-font-family: "Merriweather", var(--base-font-family);
+        
+    }
+    .custom-footer {
+        background-color: #f8f9fa;  
+        padding: 20px 0;
+        font-family: "Merriweather", sans-serif;
+    }
+    
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;  
+        margin: 0 auto;  
+    }
+    
+    .logo img {
+        max-height: 50px;  
+        width: auto;  
+    }
+    
+    .footer-text {
+        text-align: center;
+        font-size: 20px;
+        flex-grow: 1;  
+        padding: 0 20px;  
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script><link rel="preload" href="/A3M/search/index.json" as="fetch" crossorigin="anonymous">
     </head>
     <body class="template-search">
     <script>
